@@ -1,0 +1,15 @@
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bin\Debug\ReverseMap\resources.pri
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bin\Debug\AppxManifest.xml
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bin\Debug\ImprovProfilesWebApp.build.appxrecipe
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\priconfig.xml
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\priconfig.xml.intermediate
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\layout.resfiles
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\layout.resfiles.intermediate
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\resources.resfiles
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\resources.resfiles.intermediate
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\pri.resfiles
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\pri.resfiles.intermediate
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\qualifiers.txt
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\qualifiers.txt.intermediate
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bld\Debug\ProjectArchitectures.txt

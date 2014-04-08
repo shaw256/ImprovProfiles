@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BYAKKODEVSERVER</Machine>
+    <WindowsUser>jeffrey.shaw</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>8d459e30-9efa-4ccd-846a-5eab97f0e5b9</PackageIdentityName>
+    <RegisteredManifestChecksum>9099BFD354CF351E4B92EFB1B90C78FFD416B92D34316DDF8CC81516C7CDA7A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>8d459e30-9efa-4ccd-846a-5eab97f0e5b9_1.0.0.0_neutral__j4vasddx8yhsr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>8d459e30-9efa-4ccd-846a-5eab97f0e5b9_j4vasddx8yhsr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>8d459e30-9efa-4ccd-846a-5eab97f0e5b9</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=jeffrey.shaw</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-04-02T16:56:57.066</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-03-28T19:55:57.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-03-28T19:55:57.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\page2\page2.css">
+      <PackagePath>pages\page2\page2.css</PackagePath>
+      <Modified>2014-04-02T15:35:05.997</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T21:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T21:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T21:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-21T21:19:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-03-28T19:55:57.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-03-28T19:55:57.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-04-02T17:09:35.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\page2\page2.js">
+      <PackagePath>pages\page2\page2.js</PackagePath>
+      <Modified>2014-04-02T15:35:04.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-04-02T18:05:37.051</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-03-28T19:55:57.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\pages\page2\page2.html">
+      <PackagePath>pages\page2\page2.html</PackagePath>
+      <Modified>2014-04-02T15:35:05.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jeffrey.shaw\Documents\GitHub\ImprovProfiles\ImprovProfilesWebApp\ImprovProfilesWebApp\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-04-02T16:56:55.451</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.16408</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.16408</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
